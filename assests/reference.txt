@@ -1,1 +1,2 @@
 https://www.cmoney.tw/forum/popular/buzz?tab=popular
+https://apify.com/api/yahoo-finance-api?utm_term=&utm_campaign=SCH-DSA%20APAC&utm_source=adwords&utm_medium=ppc&hsa_acc=9303439903&hsa_cam=23586259341&hsa_grp=200357374464&hsa_ad=798107386774&hsa_src=g&hsa_tgt=dsa-2465585912102&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=23586259341&gbraid=0AAAAAClxWBNbYLScVE0q7_YIIxMHOOq6w&gclid=CjwKCAjwnN3OBhA8EiwAfpTYepRC28mqaHlATpbu6J-KnYWzSXv7ZqXbNWjAjWrOuiy0_8B-KkEaLBoCPNYQAvD_BwE
