@@ -1,0 +1,2 @@
+cd C:\Users\ASUS\fin_chips
+python -m streamlit run appl.py
